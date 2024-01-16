@@ -6,6 +6,11 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently studying at Nackademin to become a frontend developer. And I hold a degree from a 2-year .NET development course.
+My two latest school project is: 
+    - Quiz for Ankademin: 
+      https://quizforankademin.netlify.app/
+    - Rent-a-plant: 
+      https://rentaplant.netlify.app/
 
 - 🌱 I’m currently immersed in learning JavaScript.
  
