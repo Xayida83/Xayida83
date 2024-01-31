@@ -5,12 +5,13 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently studying at Nackademin to become a frontend developer. And I hold a degree from a 2-year .NET development course.
-My two latest school project is: 
-    - Quiz for Ankademin: 
-      https://quizforankademin.netlify.app/
-    - Rent-a-plant: 
-      https://rentaplant.netlify.app/
+#### I’m currently studying at Nackademin to become a frontend developer. And I hold a degree from a 2-year .NET development course.
+My latest school project is:
+> [Quiz for Ankademin](https://quizforankademin.netlify.app/)  
+> 
+> [Rent-a-plant](https://rentaplant.netlify.app/)
+>
+> [Learning Figma](https://www.figma.com/file/ZfFxDSgQZcl6wL0yzWW5f2/Portfolio?type=design&node-id=0%3A1&mode=design&t=xF52UrD7k12yfcnU-1)
 
 - 🌱 I’m currently immersed in learning JavaScript.
  
@@ -22,4 +23,4 @@ My two latest school project is:
   
 - 📫 How to reach me: charlotta.lindberg@yh.nackademin.se
   
-Excited about the coding journey and always ready for new challenges! 🚀
+Excited about the coding journey and always ready for new challenges! 
