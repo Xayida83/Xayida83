@@ -7,6 +7,8 @@ Here are some ideas to get you started:-->
 
 #### I’m currently studying at Nackademin to become a frontend developer. And I hold a degree from a 2-year .NET development course.
 My latest school project is:
+> [Wheels-of-time](https://wheelsoftimecreatures.netlify.app/)
+> 
 > [Quiz for Ankademin](https://quizforankademin.netlify.app/)  
 > 
 > [Rent-a-plant](https://rentaplant.netlify.app/)
