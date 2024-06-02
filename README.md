@@ -19,9 +19,9 @@ My latest school project is:
 
 - 🌱 I’m currently immersed in learning JavaScript.
  
-- 👯 I’m open to opportunities for a summer job and a 6-month internship.
+- 👯 I’m open to opportunities for a job at my freetime and a 6-month internship.
 
-- 💬 Ask me about anything related to coding, .NET, C#, or my journey into frontend development.
+- 💬 Ask me about anything related to coding, .NET, C# or my journey into frontend development.
 
 - 🌟 With a rich background in hospitality and service, coupled with experience as a leisure teacher, I bring a unique perspective to problem-solving and collaboration.
   
