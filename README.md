@@ -10,6 +10,10 @@ My latest school project is:
 > [Pokemon game](https://pokegamebylotta.netlify.app/)
 > 
 > [Wheels-of-time](https://wheelsoftimecreatures.netlify.app/)
+>
+> [Book Ducks](https://github.com/Xayida83/CMS_Projekt_lotta_lindberg)
+>
+> [Sunday Reset](https://sundayreset.netlify.app/)
 > 
 > [Quiz for Ankademin](https://quizforankademin.netlify.app/)  
 > 
