@@ -27,7 +27,7 @@ My latest school project is:
 
 - 💬 Ask me about anything related to coding, .NET, C# or my journey into frontend development.
 
-- 🌟 With a rich background in hospitality and service, coupled with experience as a leisure teacher, I bring a unique perspective to problem-solving and collaboration.
+- 🌟 With a rich background in hospitality and service, coupled with experience as a teacher, I bring a unique perspective to problem-solving and collaboration.
   
 - 📫 How to reach me: charlotta.lindberg@yh.nackademin.se
   
