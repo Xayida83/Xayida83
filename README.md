@@ -1,5 +1,5 @@
 ### Hi there, I´m Lotta! 👋
-
+[Portfolio](https://charlottalindberg.netlify.app/)
 <!--
 **Xayida83/Xayida83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,7 @@ My latest school project is:
 
 - 🌱 I’m currently immersed in learning JavaScript.
  
-- 👯 I’m open to opportunities for a job at my freetime and a 6-month internship.
+- 👯 I’m open to opportunities for a job at my freetime and a 5-month internship.
 
 - 💬 Ask me about anything related to coding, .NET, C# or my journey into frontend development.
 
