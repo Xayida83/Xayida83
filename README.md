@@ -8,18 +8,21 @@ Here are some ideas to get you started:-->
 #### I’m currently studying at Nackademin to become a frontend developer. And I hold a degree from a 2-year .NET development course.
 My latest school project is:
 > [Pokemon game](https://pokegamebylotta.netlify.app/)
+> [Git repository](https://github.com/Xayida83/Pokemonbylotta)
 > 
 > [Wheels-of-time](https://wheelsoftimecreatures.netlify.app/)
-> [Git repository]
+> [Git repository](https://github.com/Xayida83/Wheels-of-time)
 >
 > [Book Ducks Git repository](https://github.com/Xayida83/CMS_Projekt_lotta_lindberg)
 >
 > [Sunday Reset](https://sundayreset.netlify.app/)
 > [Git repository at collaborator Gabriella Broberg](https://github.com/gabriella-broberg/SundayReset-ProductivityApp)
 > 
-> [Quiz for Ankademin](https://quizforankademin.netlify.app/)  
+> [Quiz for Ankademin](https://quizforankademin.netlify.app/)
+>  [Git repository]((https://github.com/Xayida83/Quiz-for-Ankademin))
 > 
 > [Rent-a-plant](https://rentaplant.netlify.app/)
+> [Git repository](https://github.com/Xayida83/Rent-a-plant)
 >
 > [Learning Figma](https://www.figma.com/file/ZfFxDSgQZcl6wL0yzWW5f2/Portfolio?type=design&node-id=0%3A1&mode=design&t=xF52UrD7k12yfcnU-1)
 
