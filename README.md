@@ -6,7 +6,9 @@
 Here are some ideas to get you started:-->
 
 #### I’m currently studying at Nackademin to become a frontend developer. And I hold a degree from a 2-year .NET development course.
-My latest school project is:
+[Link to my portfolio on github](https://github.com/Xayida83/portfolio-lotta)
+
+### My latest school project is:
 > [Inventory management](https://github.com/Xayida83/inventory-management-app)
 >
 >  ✨ Course in JavaScript as backend, with a focus on database integration.
