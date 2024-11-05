@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 [Link to my portfolio on github](https://github.com/Xayida83/portfolio-lotta)
 
 ### My latest school project is:
->[E-Wallet](https://e-wallet-lotta.netlify.app/addCard)
+>[E-Wallet](https://e-wallet-lotta.netlify.app)
 >
 >[Git repository](https://github.com/Xayida83/e-wallet-lotta)
 >
