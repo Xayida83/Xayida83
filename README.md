@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-#### I’m currently studying at Nackademin to become a frontend developer. And I hold a degree from a 2-year .NET development course.
+#### Frontend developer with a background in both frontend and .NET development, with degrees from Nackademin and IT-Högskolan.
 [Link to my portfolio on github](https://github.com/Xayida83/portfolio-lotta)
 
 ### My latest school project is:
